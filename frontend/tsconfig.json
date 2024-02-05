@@ -6,6 +6,8 @@
     "strict": true,
     "noEmit": true,
     "esModuleInterop": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
     "module": "esnext",
     "moduleResolution": "bundler",
     "resolveJsonModule": true,
